@@ -7,8 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 	<Grid>
-		<TextBlock x:Name="txt_box" HorizontalAlignment="Left" Margin="314,177,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" AutomationProperties.AutomationId="id_txt_box" Width="151" Height="67"/>
-		<Button Content="Button" HorizontalAlignment="Left" Margin="639,87,0,0" VerticalAlignment="Top" Width="76"/>
+		<TextBlock x:Name="txt_box" HorizontalAlignment="Left" Margin="62,40,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" AutomationProperties.AutomationId="id_txt_box" Width="151" Height="67"/>
+		<Button Content="Button" HorizontalAlignment="Left" Margin="442,40,0,0" VerticalAlignment="Top" Width="76"/>
+		<Button Content="Button" HorizontalAlignment="Left" Margin="442,92,0,0" VerticalAlignment="Top" Width="76"/>
 
 	</Grid>
 </Window>
