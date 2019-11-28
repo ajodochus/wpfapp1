@@ -8,10 +8,10 @@
         Title="MainWindow" Height="450" Width="800">
 	<Grid>
 		<TextBlock x:Name="txt_box" HorizontalAlignment="Left" Margin="62,40,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" AutomationProperties.AutomationId="id_txt_box" Width="151" Height="67"/>
-		<Button Content="Button" HorizontalAlignment="Left" Margin="442,40,0,0" VerticalAlignment="Top" Width="76"/>
-		<Button Content="Button" HorizontalAlignment="Left" Margin="442,92,0,0" VerticalAlignment="Top" Width="76"/>
-		<TextBlock HorizontalAlignment="Left" Margin="464,175,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-		<Button Content="Button" HorizontalAlignment="Left" Margin="442,134,0,0" VerticalAlignment="Top" Width="76"/>
+		<Button Content="Button" HorizontalAlignment="Left" Margin="669,210,0,0" VerticalAlignment="Top" Width="76"/>
+		<Button Content="Button" HorizontalAlignment="Left" Margin="669,262,0,0" VerticalAlignment="Top" Width="76"/>
+		<TextBlock HorizontalAlignment="Left" Margin="691,345,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+		<Button Content="Button" HorizontalAlignment="Left" Margin="669,304,0,0" VerticalAlignment="Top" Width="76"/>
 
 	</Grid>
 </Window>
